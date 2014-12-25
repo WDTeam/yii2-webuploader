@@ -1,0 +1,21 @@
+{
+    "name": "wdteam/yii2-webuploader",
+    "description": "WebUploader是由Baidu WebFE(FEX)团队开发的一个简单的以HTML5为主，FLASH为辅的现代文件上传组件。",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","webuploader"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "windsdeng",
+            "email": "winds@dlf5.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "wdteam\\webuploader\\": ""
+        }
+    }
+}
