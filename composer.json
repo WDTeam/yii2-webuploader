@@ -18,5 +18,14 @@
         "psr-4": {
             "wdteam\\webuploader\\": ""
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        },
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
     }
 }
