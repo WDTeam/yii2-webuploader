@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
 
 class WebuploaderAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/webuploader/dist';
+    public $sourcePath = '@bower/fex-webuploader/dist';
 
     public $css = [
         'webuploader.css',
